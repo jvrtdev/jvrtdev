@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é João Vitor. Sou Desenvolvedor Front-End e atualmente estou cursando Análise e desenvolvimento de sistemas!
+  Olá! Meu nome é João Vitor. Sou Desenvolvedor Front-End e atualmente estou cursando Análise e desenvolvimento de sistemas! 💻
 </p>
 
 <p align="left">
-  🛠️: Linguagens: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  🛠️ Linguagens: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 </p>
 
