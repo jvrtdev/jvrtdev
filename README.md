@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a> 
 
-## Estatisticas
+## Estatísticas
 <div align="left">
   
   [![card](https://github-readme-stats.vercel.app/api?username=jvrtdev&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
