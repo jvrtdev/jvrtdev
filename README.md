@@ -28,6 +28,5 @@
 
 <div align="left">
   
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jvrtdev&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
