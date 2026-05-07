@@ -8,7 +8,7 @@
 
 <div align=left>
   <h2>Tecnologias</h2>
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,cs,dotnet,docker,postgres,supabase,redis,mysql,prisma,php,go,python,aws,linux&perline=10" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,cs,dotnet,php,laravel,docker,postgres,supabase,redis,mysql,prisma,php,go,python,aws,linux&perline=10" />
 <div/>
 
 ## Entre em contato comigo!
