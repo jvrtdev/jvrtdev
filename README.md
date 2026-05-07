@@ -1,9 +1,8 @@
 # João Vitor - Software Developer
 
-
-
-
-
+Desenvolvedor de Software com experiência na criação de APIs, sistemas web, automações e produtos SaaS.
+Tenho experiência no desenvolvimento de soluções para clientes reais, times de desenvolvimento, incluindo sistemas com autenticação, integração com serviços externos, persistência de dados, APIs REST/GraphQL, automações de atendimento e aplicações com uso de IA.
+Atualmente aprofundo meus conhecimentos em arquitetura de software, backend, bancos de dados relacionais, microsserviços, filas, cache, cloud, DDD, MVVM, com foco em construir aplicações escaláveis, bem estruturadas e preparadas para produção.
 
 
 <div align=left>
@@ -18,15 +17,3 @@
 <a href="mailto:jvrtdev@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a> 
-
-## Estatísticas
-<div align="left">
-  
-  [![card](https://github-readme-stats.vercel.app/api?username=jvrtdev&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="left">
-  
-
-</div>
