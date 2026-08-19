@@ -7,7 +7,7 @@ Atualmente aprofundo meus conhecimentos em arquitetura de software, backend, ban
 
 <div align=left>
   <h2>Tecnologias</h2>
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,cs,dotnet,php,laravel,docker,postgres,supabase,redis,mysql,prisma,go,python,aws,linux&perline=10" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,cs,dotnet,java,spring,docker,postgres,supabase,redis,mysql,prisma,go,python,aws,linux,k8s&perline=10" />
 <div/>
 
 ## Entre em contato comigo!
